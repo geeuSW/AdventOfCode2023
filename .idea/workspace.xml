@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5441d198-9ee6-42be-b727-29674456cf5c" name="Changes" comment="Day 2">
-      <change afterPath="$PROJECT_DIR$/src/main/java/aof/Day2/Day2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/aof/Day2/Input" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/aof/Day2/Input2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/aof/Day2/Text" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/aof/Day2/Text2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/aof/Day3/Day3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/aof/Day3/Input" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/aof/Day3/Number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/aof/Day3/Text" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/aof/Day3/Text2" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,12 +48,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "jdk.selected.JAVA_MODULE": "azul-16"
+  }
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/aof" />
       <recent name="$PROJECT_DIR$/src/main/java/org/aoc" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Day2">
+  <component name="RunManager" selected="Application.Day3">
     <configuration name="Day1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="aof.Day1.Day1" />
       <module name="AdventOfCode.main" />
@@ -80,8 +86,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Day3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aof.Day3.Day3" />
+      <module name="AdventOfCode.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="aof.Day3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Day3" />
         <item itemvalue="Application.Day2" />
         <item itemvalue="Application.Day1" />
       </list>
@@ -103,7 +123,14 @@
       <option name="project" value="LOCAL" />
       <updated>1701437503073</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Day 2">
+      <created>1701533858344</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1701533858344</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
